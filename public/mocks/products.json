@@ -1,0 +1,93 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Apple Iphone 14 Pro",
+            "price": 699,
+            "addPrice":699,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail":  "https://dummyimage.com/400x300/000000/FFFFFF&text=VS",
+            "images": [
+                "https://dummyimage.com/400x300/000000/FFFFFF&text=VS"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Samsung Galaxy S23",
+            "price": 499,
+            "addPrice":499,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail":  "https://dummyimage.com/400x300/000000/FFFFFF&text=VS",
+            "images": [
+                "https://dummyimage.com/400x300/000000/FFFFFF&text=VS"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Redmi Note 13 Pro",
+             "price": 249,
+            "addPrice":249,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Xiaomi",
+            "category": "smartphones",
+            "thumbnail":  "https://dummyimage.com/400x300/000000/FFFFFF&text=VS",
+            "images": [
+                "https://dummyimage.com/400x300/000000/FFFFFF&text=VS"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Nothing Phone 2",
+            "price": 299,
+            "addPrice":299,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "Nothing",
+            "category": "smartphones",
+            "thumbnail":  "https://dummyimage.com/400x300/000000/FFFFFF&text=VS",
+            "images": [
+                "https://dummyimage.com/400x300/000000/FFFFFF&text=VS"           ]
+        },
+        {
+            "id": 5,
+            "title": "OnePlus Note 11",
+            "price": 499,
+            "addPrice":499,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "OnePlus",
+            "category": "smartphones",
+            "thumbnail":  "https://dummyimage.com/400x300/000000/FFFFFF&text=VS",
+            "images": [ 
+                "https://dummyimage.com/400x300/000000/FFFFFF&text=VS"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Motorola One",
+            "price": 999,
+            "addPrice":999,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Motorola",
+            "category": "smartphones",
+            "thumbnail":  "https://dummyimage.com/400x300/000000/FFFFFF&text=VS",
+            "images": [
+                "https://dummyimage.com/400x300/000000/FFFFFF&text=VS"
+            ]
+        }
+    ]
+}
